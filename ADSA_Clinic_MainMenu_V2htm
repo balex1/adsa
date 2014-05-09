@@ -1,0 +1,22 @@
+.container2 {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    background-color:#008B8B;
+}
+
+.menubuttongroup {
+    width:100%;
+}
+
+.navbar-inverse {
+    margin-bottom: 0px;
+}
+
+body {
+  background: #261594;
+}
+
+.contentarea {
+  background: #FFF;
+}
