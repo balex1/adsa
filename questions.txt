@@ -1,0 +1,6 @@
+Problems
+buttons in main menu not lined up
+Buttons in toolbar not evenly spaced
+how to add an image as a background
+how to center an arbitrary element
+
